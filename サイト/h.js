@@ -4,7 +4,7 @@ function first(){
         var pass=prompt("パスワードを入力してね！！")
 var passWord="S.T.A fast project"
 if(pass == passWord){
-    alert("正解！！");
+    alert("ログインできました！！(https://tkun1212.github.io/Hello-test)入ったらGPSとIPアドレスがこちらに送信されます。");
 }else{
     alert("ユーザー名又はパスワードが間違ってます。");
     first();
